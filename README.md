@@ -4,7 +4,8 @@ Installation instructions
 Install nodejs such that node is in your PATH
 Install git such that git is in your PATH
 
-git clone https://github.com/Aharon-Porath/Democrasee.git
+```
+git clone https://github.com/linnovate/Democrasee.git
 cd Democrasee
 # install all node requirements
 npm install
@@ -20,5 +21,4 @@ RunMongo.bat
 PORT=8080 node app.js
 # Launching on port 80
 node app.js
-
-
+```
